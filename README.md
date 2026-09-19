@@ -1,2 +1,2 @@
 # basic
-intro about git
+intro about git on 9:32
